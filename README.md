@@ -6,7 +6,6 @@
  <img src="https://github.com/julioavantt/julioavantt/blob/main/unicorn-with-glasses.png">
 </p>
 
-
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC38RutKRyCUHZ866mTNkUAw?link=https%3A%2F%2Fyoutube.com%2F%40juniorpride)
 [![GitHub followers](https://img.shields.io/github/followers/julioavantt?style=social)](https://github.com/julioavantt)
 
@@ -17,13 +16,33 @@
 - 🎥 Enseño en Coderhouse los cursos de React Js, Javascript y Desarrollo Web.
 - ✏️ Cree cursos, fui profesor e hice mentorías en Alkemy, Digital House, Rolling Code, Educación IT, Guayerd, BlockAcademy.
 - 🧑‍🏫 Creador de [Junior Pride](https://www.youtube.com/@juniorpride)
-<br>
+  <br>
 
+## Este repo trata sobre: Uso de método .map en Javascript.
 
-##  Este repo trata sobre: El método JS .map.
-<br>
+- Esta aplicación está creada con Create React App.
+- Clonarla: git clone https://github.com/julioavantt/teacher_js_map.git
+- Instale en Visual Studio Code la extensión Quokka.
+- Luego abrir archivo index.js y apriete simultáneamente las teclas SHIFT + CTRL + P y seleccione Quokka.js toggle.
 
-##  ⚙️ &nbsp;GitHub Analytics
+  <br>
+
+## Repos y videos útiles.
+
+- [Cómo instalar Vite](https://www.youtube.com/watch?v=jcKoP-FvPsY&ab_channel=JuniorPride)
+- [React createElement](https://github.com/julioavantt/teacher_react_create_element)
+- [React JSX](https://github.com/julioavantt/teacher_react_jsx_basic)
+- [React components](https://github.com/julioavantt/teacher_react_components)
+- [React children](https://github.com/julioavantt/teacher_react_children)
+- [React useRef](https://github.com/julioavantt/teacher_react_useref)
+- [Javascript efectos secundarios](https://github.com/julioavantt/teacher_js_side_effects)
+- [React useEffect](https://github.com/julioavantt/teacher_react_useeffect)
+- [Javascript Promises](https://github.com/julioavantt/teacher_js_promises)
+- [Javascript .map](https://github.com/julioavantt/teacher_js_map)
+- [React .map](https://github.com/julioavantt/teacher_react_map)
+  <br>
+
+## ⚙️ &nbsp;GitHub Analytics
 
 <br>
 <p align="center">

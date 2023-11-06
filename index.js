@@ -1,10 +1,10 @@
 let personasNoAlmorzaronPancho = ["Susan", "Sarah", "Peter"];
 
-console.log(personasNoAlmorzaronPancho);
+personasNoAlmorzaronPancho;
 
 const personasFelices = personasNoAlmorzaronPancho.map(
   (persona) => `🌭 ${persona}`
 );
 
-// personasFelices;
-//personasNoAlmorzaronPancho;
+personasFelices;
+personasNoAlmorzaronPancho;
