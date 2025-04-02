@@ -1,0 +1,20 @@
+<script>
+	const usuarios = [
+		{ nombre: "Juan", edad: 25 },
+		{ nombre: "Mariano", edad: 30 },
+		{ nombre: "Carlos", edad: 28 },
+		{ nombre: "Ana", edad: 22 },
+		{ nombre: "Jacinto", edad: 35 },
+	]
+
+	const nombresCambiados = usuarios.map(usuario => {
+		if (usuario.nombre.at(-1) === "o")
+			return {
+				...usuario,
+				nombre: usuario.nombre.slice(0, -1) + "a",
+			}
+		return usuario
+	})
+
+	console.log(nombresCambiados)
+</script>
