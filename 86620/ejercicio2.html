@@ -1,0 +1,18 @@
+<script>
+	const usuarios = [
+		{ nombre: "Juan", edad: 25 },
+		{ nombre: "Mariano", edad: 30 },
+		{ nombre: "Carlos", edad: 28 },
+		{ nombre: "Ana", edad: 22 },
+		{ nombre: "Jacinto", edad: 35 },
+	]
+
+	const cambiar = usuarios.map(usuario => {
+		if (usuario.nombre.at(-1) === "o") {
+			return { nombre: usuario.nombre.slice(0, -1) + "a", edad: usuario.edad }
+		}
+		return usuario
+	})
+
+	console.log(cambiar)
+</script>

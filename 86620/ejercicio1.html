@@ -1,0 +1,15 @@
+<script>
+	const personas = [
+		{ nombre: "Ana", team: "calor" },
+		{ nombre: "Carlos", team: "frio" },
+		{ nombre: "Lucía", team: "calor" },
+		{ nombre: "Martín", team: "frio" },
+	]
+
+	const teams = personas.map(persona => {
+		if (persona.team === "calor") return `🥵 ${persona.nombre}`
+		return `⛄ ${persona.nombre}`
+	})
+
+	console.log(teams)
+</script>

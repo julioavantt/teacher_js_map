@@ -1,10 +1,8 @@
-let personasNoAlmorzaronPancho = ["Susan", "Sarah", "Peter"];
+let noAlmorzaron = ["Susan", "Sarah", "Peter"]
 
-personasNoAlmorzaronPancho;
+noAlmorzaron
 
-const personasFelices = personasNoAlmorzaronPancho.map(
- (persona) => `🌭 ${persona}`
-);
+const personasFelices = noAlmorzaron.map(persona => `🌭 ${persona}`)
 
-personasFelices;
-personasNoAlmorzaronPancho;
+personasFelices
+noAlmorzaron
