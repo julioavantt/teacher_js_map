@@ -18,7 +18,7 @@
 -  🧑‍🏫 Creador de [Junior Pride](https://www.youtube.com/@juniorpride)
    <br>
 
-## Este repo trata sobre: Animate a SORT 👩🏻‍🦰🧒🏻!
+## Este repo trata sobre: Animate a MAP 👩🏻‍🦰🧒🏻!
 
 ### Ejercicio 1
 
